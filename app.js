@@ -26,6 +26,10 @@ let data = [
     {
         name: 'Yanis',
         age: '29'
+    },
+    {
+        name: 'Alfred',
+        age: '99'
     }
 ];
 
